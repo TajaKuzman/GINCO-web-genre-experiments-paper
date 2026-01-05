@@ -4,6 +4,8 @@ This repository contains the code used in the experiments presented in:
 
 [Kuzman, Taja, Peter Rupnik, and Nikola Ljubešić. "The GINCO Training Dataset for Web Genre Identification of Documents Out in the Wild." Proceedings of the Thirteenth Language Resources and Evaluation Conference. 2022.](https://aclanthology.org/2022.lrec-1.170/)
 
+Licensed under the MIT License. See LICENSE.
+
 ## Overview and Resources
 
 We introduce and evaluate GINCO 1.0, a manually-annotated dataset for automatic genre identification of Slovenian web documents. The repository implements:
